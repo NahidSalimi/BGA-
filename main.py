@@ -14,6 +14,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # Load and process your document once at startup
 loader = TextLoader("C:/Users/HP-PC/PycharmProjects/pythonProject/company_faq.txt", encoding="utf-8")
+
+
 documents = loader.load()
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 docs = text_splitter.split_documents(documents)
