@@ -13,7 +13,7 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # Load and process your document once at startup
-loader = TextLoader("C:/Users/HP-PC/PycharmProjects/pythonProject/company_faq.txt", encoding="utf-8")
+loader = TextLoader("company_faq.txt", encoding="utf-8")
 
 
 documents = loader.load()
