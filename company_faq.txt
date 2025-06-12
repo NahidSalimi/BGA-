@@ -1,0 +1,296 @@
+the developer and owner of this chat bot is nahid salimi,
+
+
+
+
+
+Brave Bot (BB) - Admissions
+
+Sancho is going to create for us the BB like Tais presented last year. The BB is basically for the LCs to ask questions about our procedures, and the bot provides automatic replies.
+
+We have to structure it by Topics first, then creating subtopics for the Questions that the LCs ask us, then developing the Answers(replies) which ideally contain links to specific sections of our Notebook (which we used to elaborate our SharePoint). Try to include as much Topics and Questions as you can think of so you can reduce your workload as much as possible in terms of replying to the LCs via Team.
+
+Admissions Notebook of processes link (so you can view all our processes as a reference for the topics and questions, and get all the specific section links): Team Site Notebook
+
+
+Topic 1: Transfer of Programmes (Remote/UP/BAS)
+
+Q1: My Learner wishes to transfer from Hybrid (the Hub) to BGA Remote (full online) permanently (due to changes in location, or just a preference). What do I need to do?
+
+A1: If the Learner wishes to permanently transfer from Hybrid to BGA Remote, the first step is assuring that they and their family accept the changes in the approach of the Remote model, and have the expectations aligned. The second step is to write an email, with the family in CC, informing Admissions of their choice. Click here to view the steps in detail, including the list of topics that you have to approach in step 1.
+
+
+Q2: My Learner is travelling for some period of time (up to 3 months) and will stop attending the Hub. Do they need to transfer to BGA Remote?
+
+A2: No, we only transfer Learners from Hybrid to BGA Remote if they are going full online permanently. Therefore, you should evaluate how you can provide them with online support while they are absent from the Hub. They will remain Active on your Learners List, with a reserved spot at your Hub.
+
+
+Q3: My Learner wishes to possibly join the UP Programme. How should I proceed?
+
+A3: Please coordinate a meeting with Esther, Head of our UP Programme, so she can explain the programme to the Learner and check their eligibility. Esther will communicate directly with Admissions, and Admissions will inform the LCs if the transfer officialises and what they will have to do as the final step. Check the steps in detail here.
+
+
+Q4: My Learner wishes to possibly join the BAS (Brave Academy of Sports) programme. What’s next?
+
+A4: All you need to do is coordinate a meeting with the BAS team, Rodrigo, Nico and Conrad, so they can explain the programme to the Learner and check their eligibility. The BAS team will communicate directly with Admissions, and Admissions will inform the LCs if the transfer officialises. Check all the steps here.
+
+
+Topic 2: Transfer of Curriculum (UK/US/UP/Portuguese)
+
+
+Q1: My Learner wishes to transfer from the British Curriculum to the US Curriculum. What do I need to do?
+
+A1: The most updated procedure is the following:
+
+1) Inform the Admissions team via email, so they can send detailed information, including pricing, and next steps to the parents. 2) The Learning Coaches (LCs) will prepare the report (check the step-by-step here) and send it to Admissions and Danielle Roodt.
+
+3) Danielle will confirm the academic level of the Learner.
+
+4) Learner will choose the subject that they wish to study at FIA.
+
+5) LCs will send to Admissions and Danielle the subject selection.
+
+6) Admissions will send a final confirmation to FIA, the LCs and the family.
+
+7) FIA will send the Learner’s credentials to you and the family.
+
+Please check the SharePoint for further details: Team Site Notebook
+
+
+Q2: My Learner wishes to possibly join the UP Programme. How should I proceed?
+
+A2: Please coordinate a meeting with Esther, Head of our UP Programme, so she can explain the programme to the Learner and check their eligibility. Esther will communicate directly with Admissions, and Admissions will inform the LCs if the transfer officialises and what they will have to do as the final step. Check the steps in detail here.
+
+
+Q3: My Learner wishes to transfer to the Portuguese+ Curriculum. What do I need to do?
+
+A3: Please inform the Admissions team via email, so they can send detailed information, including pricing, and next steps to the parents. Once the enrolment process is completed, Admissions will send you a confirmation email.
+
+
+Q4: When will my Learner receive their new curriculum credentials?
+
+A4: After Admissions sends the LCs the confirmation emails regarding the conclusion of the transfer process, the credentials will be shared with the LCs and Learners according to the following:
+
+a) If the Learner is switching to a curriculum we outsource (US or UP), the providers will send you and the Learner the credentials after the process is finalised. In the case of UP, the mentors will send you the credentials right after your onboarding session takes place.
+
+b) If the Learner switches to the UK or Portuguese+ curricula, Amanda (IT) will be the point of contact for the platform courses after the process is finalised.
+
+
+Topic 3: Transfer of Hubs
+
+
+Q1: My learner wants to be transferred to another hub. What do I need to do?
+
+1) LCs must decide among themselves: the team of the Hub of origin must contact the team of the Hub the Learner wishes to transfer to, requesting the transfer approval. CC your DCs when needed;
+
+2) LCs must refer to their DCs whenever is a sensitive case/concern that they need further advice on;
+
+3) LCs inform Admissions via the Teams Channel so Admissions can make the alterations to our documents;
+
+4) New LC will add parents to the WhatsApp group and send the parents the Hub Booklet;
+
+5) Notify our US Curriculum provider in case they are doing the American Curriculum.
+
+>>> Please note that changes in Moodle must be requested directly to Amanda (IT) after all is confirmed.
+
+
+Topic 4: Official Learners List
+
+
+Q1: Why can’t I find my Learners on the Official Learners List?
+
+A1: Please check if you have any filters applied to one of the columns. If you do, make sure to clear the filter. Always select all the options in the Status column (Active, Inactive, In Progress, In Progress-ok, Waiting List, Waiting List - ok) as the status of the Learner you’re looking for may have changed.
+
+Additionally, ensure you have clicked on Trust Worktools warning so the document is synchronised. For a step-by-step explanation with illustrations of how to do this, please refer to our SharePoint: Team Site Notebook
+
+
+Q2: What does the 'Progress', 'In-Progress' ,’Active’, and ‘Inactive’ means in the Official Learners List.
+
+A2:
+
+In the first column Status, the Learners are labeled according to the following:
+
+· Active (learners that are currently attending the hub)
+
+· Inactive (learners that have withdrawn from BGA)
+
+· In progress (learners that will have their onboarding meeting yet)
+
+· In progress – ok (learners that have been through the onboarding meeting but haven't started attending the hub yet)
+
+· Waitlist – ok (to identify learners that are Active in another Hub view, but in the Waiting List of another Hub. Therefore, this learner is Active in a Hub view, since they are attending BGA, but as Waitlist - ok in another Hub view to inform us that they wish to move there eventually)
+
+· Waitlist (to identify learners that are in the Waiting List of a Hub, and not Active in any other Hub. Therefore, they are just waiting for a vacancy to open in that specific Hub to start in BGA)
+
+· Graduated (learners that graduated)
+
+My Learner has the incorrect academic level on the Official Learners List. How do I update it?
+
+A3: Please send a message on our Admissions Teams channel with the most updated information so we can update our database. The same is valid for any type incorrections in the Official Learners List.
+
+
+Topic 5: Unannounced Parental Hub Visits
+
+
+Q1: A parent arrived at the Hub unexpectedly to learn more about BGA. How should I proceed?
+
+A1: Upon an unannounced visit from a parent to the Hub, provide them with an introduction about BGA while showing our Hub to them. It is essential to ensure that the parent feels welcomed and valued throughout the interaction. Please proceed by gathering the parent's essential contact details, including their name, phone number, email address, as well as their child's name and age. Please also exchange with them our contact details: Email (contact@bravegenerationacademy.com) and Phone Number/WhatsApp: (+351 913 578 362). Once this information is collected, kindly send it to the Admissions Team via the Teams channel of your Hub, ensuring all relevant details and any inquiries raised during the visit are included. The Admissions Team will then initiate contact with the family, providing them with information about us and guiding them through our admissions process.
+
+
+Q2: If I need it on the spot, what is the guest user login for showing the platform?
+
+A2: The guest access to show our UK Curriculum platform is the following:
+
+URL: https://learn.bravegenerationacademy.com/login/
+
+--
+
+(11) LWS 7: guest.year7 Password: Guest@y7
+
+--
+
+(12 - 13) LWS 8: guest.year8 Password: Guest@y8
+
+(13 - 14) LWS 9: guest.year9 Password: Guest@y9
+
+(14 -16) IGCSE: guest.igcse Password: Guest@igcse1
+
+(16 - 18) A-Levels: guest.alevel
+
+Password: Guest@alevel1
+
+
+Topic 6: Hub Visits and Trial Days
+
+
+Q1: What is the guest user login for trial days?
+
+You will be able to find the guest user information on the description of the calendar invite.
+
+--
+
+Guest access information for our UK Curriculum platform: URL: https://learn.bravegenerationacademy.com/login/
+
+
+(11) LWS 7: guest.year7 Password: Guest@y7
+
+--
+
+(12 - 13) LWS 8: guest.year8 Password: Guest@y8
+
+(13 - 14) LWS 9: guest.year9 Password: Guest@y9
+
+(14 -16) IGCSE: guest.igcse Password: Guest@igcse1
+
+(16 - 18) A-Levels: guest.alevel
+
+Password: Guest@alevel1
+
+
+--
+
+Guest access information for the US Curriculum platform (FIA): URL: https://usuniversitypathways.schoolsplp.com/login Password for each subject: FIA - US Curriculum Guest Users.pdf
+
+
+
+--
+
+Guest access information for the UP Programme platform: URL: https://learn.genexinstitute.com/login/bga user: demo@bga.com
+
+password: password
+
+Q2: How does the scheduling of hub visits or trials work for BGA Remote?
+
+A2: We will get in touch with the LC at their corresponding BGA Remote Channel.
+
+In the message, we will ask them for their availability to have an online meeting with
+ the prospect to show them the BGA platform and Remote online environment.
+
+In the future, we will launch FREEMIUM, which will grant families interested in the Remote option access to our platform for one week. Once we launch this promotion, we will use it instead of our current procedure.
+
+
+Topic 5: Onboarding Day and Credentials
+
+
+Q1: Where can I find my Learner’s login details when they arrive at the Hub for the first day?
+
+The Learner login details are always sent via email (subject line: “Onboarding Day – Learner's Name” ) to the Learner, with the LCs in CC, prior to their first day. Admissions only send their credentials once they have completed the admissions process (paid and signed contracts).
+
+The exception is if the Learner is doing a curriculum we outsource (US or UP). In this case, the providers will send you and the Learner the credentials after the process is finalised on their end. In the case of UP, the mentors will send you the credentials right after your onboarding session takes place.
+
+
+Q2: A Learner has arrived at my Hub, but they don’t have their login details yet. What should I do?
+
+A2: If you can’t seem to find your Learner’s credentials, the first step is to confirm receiving the details by double-checking your email and the Status of the Learner on your Official Admissions List: if you didn’t receive the email and the Status of this Learner is not as Active, the reason for they not receiving their credentials is that they didn’t complete their admissions process yet.
+
+The second step is to please inform the family that you’re going to check with Admissions, while making them comfortable at the Hub. Please proceed to reach out to us via Teams or through a call via Teams or via our phone number (+351 913 578 362). We will check what the family needs to complete in order to have their admissions process finalised and send them a follow up email.
+
+The third step is that you’re going to please inform that they need to finalise their admissions process and that the Admissions team will follow up via email with the missing documents. The Learner will be able to start attending the Hub as soon as they complete the process and agree on a first day of classes with Admissions.
+
+
+Topic 8: Declarations & Academic Reports
+
+
+Q1: How do I request for Declaration of Enrolment or a Declaration of for public transportation discounts?
+
+A1: You can request it via our Admissions Teams channel.
+
+
+Q2: How do I request my Learner’s Academic Report/Certificate?
+
+A2. Certificates of conclusion/academic certificates are prepared by the Academics team, except for Learners who are doing the US Curriculum – in this case, they are prepared by the external provider team.
+
+For Learners doing our UK or Portuguese curricula, please request the certificate via the following link: Microsoft Forms. Kindly note this link is to be used only by LC's; please do not share it.
+
+In the case of external providers, please contact the provider’s point of contact and request the academic certificate. To learn more, please refer to our SharePoint.
+
+
+Topic 9: Withdrawals & Graduation Processes
+
+
+Q1: How do I proceed if my Learner is going to withdrawal from BGA? A1: Please send an email with the link to the withdrawal form (which contains the relevant information about the process and transfer of schools) to the Learner's family with Admissions in CC. Access the template of email to be sent to the families in our SharePoint.
+
+
+Q2: How do I proceed if my Learner was asked to leave BGA (expelled)?
+
+A2: Please inform the Admissions team via email that the Learner is leaving, by when, and that the Learner was asked to leave BGA by the team.
+
+
+Q3: How do I remove any Learners from the WorkTools after they are no longer at BGA?
+
+A3: First, please if they are no longer at BGA by checking that they show up at the Official Learners List with a Status as Inactive or Graduated. Once you confirm that they have any of these statuses, please refer to Luis Brito with your request to have them removed from the WorkTools.
+
+
+Q4: When should I inform Admissions that my Learner is graduating from BGA? A4: LCs must complete the Graduation Form with the Learner. Ideally Admissions would receive the form submission two months prior to the Learner’s graduation date. That way, we can make sure to proceed with all administrative changes. Click here to access the form link and further details.
+
+
+Topic 10: Academic Level Progression - Updates & Questions
+
+
+Q1: My learner is doing UP and they passed to the next level. How should I proceed?
+
+A1: Please write an email to Admissions with the family in CC informing us of this level progression. Admissions will then reply to the email with the next steps that the family needs to take before we can enrol the Learner in the next Level.
+
+
+Q2: My Learner has the incorrect academic level on the Official Learners List. How do I update it?
+
+A2: Please send a message on our Admissions Teams channel with the most updated information so we can update our database. The same is valid for any type incorrections in the Official Learners List.
+
+
+Topic 11: Hub Capacity and Availability
+
+
+Q1: How can I check how many available spots we have at our Hub?
+
+A1: On the 'Hubs' tab of the Official Learners List, you will find a list of all our Hubs, their capacities, and the number of Learners each Hub currently has (including those who have not yet started but are in the process of completing admissions).
+
+
+Q2: The hub capacity listed on the Official Learners List exceeds what we can accommodate. Who should I contact to review and adjust the Hub capacity?
+
+A2: The responsible for deciding or changing the hub capacity is the Operations Department. Please reach out to Paulo Dinis about this matter and give Admissions an update via our Teams channel once you have confirmation.
+
+Topic 12: Others
+
+Q1: Couldn’t find a topic that replies to your question?
+
+A1: Please send us your question(s) via our Admissions Teams channel so we can reply to it and add it to our F&Q. Thank you.
