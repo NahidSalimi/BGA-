@@ -14,8 +14,6 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # Load and process your document once at startup
 loader = TextLoader("company_faq.txt", encoding="utf-8")
-
-
 documents = loader.load()
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 docs = text_splitter.split_documents(documents)
@@ -32,9 +30,9 @@ qa = RetrievalQA.from_chain_type(
 
 # Initialize Flask app
 app = Flask(__name__)
-app.secret_key = os.getenv("FLASK_SECRET_KEY", "supersecretkey")  # set in .env ideally
+app.secret_key = os.getenv("FLASK_SECRET_KEY", "supersecretkey")  # Ideally set in .env
 
-# Pretty chat HTML template with Bootstrap 5
+# Updated wider chat HTML template
 HTML_TEMPLATE = """
 <!doctype html>
 <html lang="en">
@@ -49,7 +47,7 @@ HTML_TEMPLATE = """
             background: #f5f8fa;
         }
         .chat-container {
-            max-width: 700px;
+            max-width: 1000px;  /* Made it wider */
             margin: 40px auto;
             background: white;
             border-radius: 10px;
@@ -57,7 +55,7 @@ HTML_TEMPLATE = """
             padding: 30px;
             display: flex;
             flex-direction: column;
-            height: 80vh;
+            height: 85vh;  /* Slightly taller */
         }
         .chat-box {
             flex-grow: 1;
@@ -118,7 +116,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="chat-container d-flex flex-column">
-        <h2 class="mb-3 text-center">💚Brave Internal Chatbot</h2>
+        <h2 class="mb-3 text-center">Brave Bot</h2>
         <div class="chat-box" id="chat-box">
             {% for entry in chat_history %}
                 {% if entry.user %}
@@ -161,7 +159,7 @@ def chat():
             chat_history.append({"user": query, "bot": None})
             session["chat_history"] = chat_history
 
-            # Use invoke() and extract 'result' key if dict
+            # Call LangChain QA
             result = qa.invoke(query)
             answer = result.get('result') if isinstance(result, dict) else str(result)
 
@@ -172,5 +170,4 @@ def chat():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
 
